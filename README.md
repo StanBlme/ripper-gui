@@ -7,7 +7,7 @@ De code van dit project is initieel opgezet en vervolgens volledig geoptimalisee
 ## Installatie & Gebruik
 
 1. Zorg dat [ImgBurn](https://imgburn.com) en **Python 3.x** zijn geïnstalleerd.
-2. Open `config.py` en vul de juiste systeempaden.
+2. Open `config.py` en vul de juiste systeempaden in.
 3. Start het programma via de terminal:
    ```bash
    python main.py
