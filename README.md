@@ -19,5 +19,5 @@ Dit project is uitsluitend bedoeld voor **educatieve doeleinden** en het maken v
 * **Respect voor ImgBurn EULA:** In overeenstemming met de licentievoorwaarden van ImgBurn, wordt de software van ImgBurn door dit script op geen enkele wijze aangepast, gedecompileerd, gereverse-engineered of meegeleverd (hergedistribueerd). Dit script is een onafhankelijke 'wrapper' die een reeds op de pc aanwezige ImgBurn-installatie puur aanstuurt via de officiële command-line parameters.
 * **Geen DRM-omzeiling:** Dit script bevat *geen* software of omzeilingstechnologieën om kopieerbeveiligingen te kraken. ImgBurn weigert inherent om auteursrechtelijk beveiligde schijven te lezen; dit script automatiseert enkel de legitieme basisfuncties voor onbeveiligde discs.
 
-## 📝 Licentie
+## Licentie
 Dit project valt onder de MIT-licentie.
